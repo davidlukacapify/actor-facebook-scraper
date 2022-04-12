@@ -1,5 +1,5 @@
 
-## Why scrape Facebook?
+## Why use Facebook Scraper?
 
 Facebook had over 2.85 billion monthly active users as of the first quarter of 2021. And those users spend an average of 19.5 hours on the Facebook app each month. These huge numbers attract a lot of companies trying to connect with their customers and fans.
 
